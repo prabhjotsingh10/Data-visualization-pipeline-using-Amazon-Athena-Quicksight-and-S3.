@@ -1,2 +1,2 @@
 # Data-visualization-pipeline-using-Amazon-Athena-Quicksight-and-S3.
-This project demonstrates how to analyze and visualize structured data using AWS Athena and Amazon QuickSight. The goal was to query data stored in a table using Athena and transform those results into interactive dashboards using QuickSight’s SPICE in-memory engine.
+This project demonstrates how to query data using AWS Athena and visualize the results using Amazon QuickSight. Data from an Athena table was queried using SQL and then imported into QuickSight using the SPICE engine for faster analytics. The project highlights how AWS analytics services can be used together to transform raw data into interactive visual insights.
