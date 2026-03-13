@@ -1,0 +1,6 @@
+SELECT
+service,
+SUM(cost) AS total_cost
+FROM billing_sample_data
+GROUP BY service
+ORDER BY total_cost DESC;
